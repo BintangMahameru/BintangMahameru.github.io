@@ -1,0 +1,12 @@
+/* Custom styles */
+body {
+  font-family: 'Arial', sans-serif;
+}
+
+#about {
+  background-color: #ff0000;
+}
+
+footer {
+  background-color: #343a40;
+}
